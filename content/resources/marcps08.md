@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 010c6dcf-1d6f-aefc-1d7c-a1c6b989f19d
 resourcetype: Other
 title: marcps08
 uid: 70333a34-f36e-8bbd-5aa3-f05feba79185
