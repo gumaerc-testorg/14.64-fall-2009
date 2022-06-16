@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, the course textbook, grading, and
+  an outline of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +31,7 @@ Prerequisites include basic-to-intermediate microeconomics and a course in stati
 Course Requirements
 -------------------
 
-In addition to exams and [readings]({{< baseurl >}}/pages/readings), there are four problem sets, each of which have a computer-exercise component. There are also ungraded review problem sets at the beginning and the end of the course. Students are expected to participate in class discussions.
+In addition to exams and {{% resource_link 5f2fc942-3ed8-0f75-e98d-30fb639ca44f "readings" %}}, there are four problem sets, each of which have a computer-exercise component. There are also ungraded review problem sets at the beginning and the end of the course. Students are expected to participate in class discussions.
 
 Required Text
 -------------
