@@ -5,6 +5,7 @@ file: /courses/14-64-labor-economics-and-public-policy-fall-2009/2d6c460767544b7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set Four Solutions
 uid: 2d6c4607-6754-4b7d-407f-d020a2f9e97e
 ---
 Solutions to a problem set on labor economics and public policy.
-

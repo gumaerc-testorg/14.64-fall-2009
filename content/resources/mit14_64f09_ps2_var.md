@@ -6,6 +6,7 @@ file: /courses/14-64-labor-economics-and-public-policy-fall-2009/62f384532240336
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 2 Variable Descriptions
 uid: 62f38453-2240-336b-ac34-0f385ab5fea4
 ---
 Supporting file containing variable descriptions and tips for a problem set on labor economics and public policy.
-

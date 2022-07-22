@@ -5,6 +5,7 @@ file: /courses/14-64-labor-economics-and-public-policy-fall-2009/9301276f1463183
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problems Set One Solutions
 uid: 9301276f-1463-183e-1009-fc91bc194a18
 ---
 Solutions to a problem set on market equilibrium and labor supply.
-

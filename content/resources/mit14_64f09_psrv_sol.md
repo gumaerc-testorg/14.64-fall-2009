@@ -5,6 +5,7 @@ file: /courses/14-64-labor-economics-and-public-policy-fall-2009/3802d886894e72d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Review Exercise Solutions
 uid: 3802d886-894e-72d7-7f7f-f8cf355d5ac5
 ---
 Solutions to review problems on labor economics and public policy.
-
