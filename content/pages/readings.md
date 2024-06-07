@@ -177,7 +177,7 @@ DiNardo, John E., and Jörn-Steffen Pischke. "[The Returns to Computer Use Revis
 
 *Applications: education production*
 
-Angrist, Joshua, and Victor Lavy. "[Using Maimonides Rule to Estimate the Effects of Class Size on Academic Achievement](http://www.mitpressjournals.org/doi/abs/10.1162/003355399556061)." *Quarterly Journal of Economics* 114, no. 2 (May 1999): 533-575.
+Angrist, Joshua, and Victor Lavy. "[Using Maimonides Rule to Estimate the Effects of Class Size on Academic Achievement.](https://www.nber.org/papers/w5888)" *Quarterly Journal of Economics* 114, no. 2 (May 1999): 533-575.
 
 Angrist, Joshua, Eric Bettinger, Erik Bloom, Elizabeth King, and Michael Kremer. "[Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment](http://ideas.repec.org/a/aea/aecrev/v92y2002i5p1535-1558.html)." *American Economic Review* 92, no. 5 (December 2002): 1535-1558.
 
@@ -191,7 +191,7 @@ Card, David, and Alan Krueger. "[Does School Quality Matter? Returns to Educatio
 
 Welch, Finis. "[Black-White Differences in Returns to Schooling](http://eric.ed.gov/?id=EJ089387)." *American Economic Review* 63, no. 5 (December 1973): 893-907.
 
-Krueger, Alan. "[Experimental Estimates of the Education Production Functions](http://www.mitpressjournals.org/doi/abs/10.1162/003355399556052)." *Quarterly Journal of Economics* 114, no. 2 (May 1999): 497-532.
+Krueger, Alan. "[Experimental Estimates of the Education Production Functions](https://www.nber.org/papers/w6051)." *Quarterly Journal of Economics* 114, no. 2 (May 1999): 497-532.
 
 Angrist, Joshua, and Victor Lavy. "[New Evidence on Classroom Computers and Pupil Learning](http://ideas.repec.org/p/iza/izadps/dp362.html)." *Economic Journal* 112, no. 482 (October 2002): 735-765.
 
@@ -239,7 +239,7 @@ Farber, Henry. "Analysis of Union Behavior." Chapter 18 in *The Handbook of Labo
 
 Lewis, H. Gregg. *Union Relative Wage Effects: A Survey*. Chicago, IL: University of Chicago Press, 1986. ISBN: 9780226477213.
 
-DiNardo, John, and David S. Lee. "[Economic Impacts of New Unionization on U.S. Private Sector Employers: 1984-2001](http://www.mitpressjournals.org/doi/abs/10.1162/0033553042476189)." *Quarterly Journal of Economics* 119, no. 4 (November 2004): 1383-1442.
+DiNardo, John, and David S. Lee. "[Economic Impacts of New Unionization on U.S. Private Sector Employers: 1984-2001.](https://academic.oup.com/qje/article/119/4/1383/1851076)" *Quarterly Journal of Economics* 119, no. 4 (November 2004): 1383-1442.
 
 Ashenfelter, Orley, and George E. Johnson. "[Bargaining Theory, Trade Unions, and Industrial Strike Activity](http://ideas.repec.org/a/aea/aecrev/v59y1969i1p35-49.html)." *American Economic Review* 59, no. 1 (March 1969): 35-49.
 
