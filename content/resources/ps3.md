@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting data file for a problem set on labor demand, labor economics,  and
   public policy.
 file: /courses/14-64-labor-economics-and-public-policy-fall-2009/dc8922ab12ae86279e490e463883c0f3_ps3.dta
+file_size: 2394429
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
