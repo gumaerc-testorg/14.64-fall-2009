@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to review problems on labor economics and public policy.
-file: /courses/14-64-labor-economics-and-public-policy-fall-2009/3802d886894e72d77f7ff8cf355d5ac5_MIT14_64F09_psrv_sol.pdf
+file: /ol-ocw-studio-app/courses/14-64-labor-economics-and-public-policy-fall-2009/3802d886894e72d77f7ff8cf355d5ac5_MIT14_64F09_psrv_sol.pdf
 file_size: 285721
 file_type: application/pdf
 learning_resource_types:
