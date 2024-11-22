@@ -89,7 +89,7 @@ Labor supply
 
 Moffitt, Robert. "Welfare Programs and Labor Supply." Chapter 34 in *The Handbook of Public Economics*. Vol. IV. Edited by Alan J. Auerbach and Martin Feldstein. Amsterdam, The Netherlands: North-Holland, 2002, pp. 2394-2430. ISBN: 9780444823151.
 
-Eissa, Nada, and Jeffrey B. Leibman. "[Labor Supply Response to the Earned Income Tax Credit](http://darp.lse.ac.uk/papersdb/Eissa-Liebman_(QJE96).pdf)." *Quarterly Journal of Economics* 111 (May 1996): 605-637.
+Eissa, Nada, and Jeffrey B. Leibman. "[Labor Supply Response to the Earned Income Tax Credit](https://www.jstor.org/stable/2946689)." *Quarterly Journal of Economics* 111 (May 1996): 605-637.
 
 *Application: intertemporal substitution on the road and at the ballpark*
 
