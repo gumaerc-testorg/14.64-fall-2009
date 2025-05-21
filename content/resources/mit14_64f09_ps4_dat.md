@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting notes on the data file for a problem set on labor economics
   and public policy.
-file: /ol-ocw-studio-app/courses/14-64-labor-economics-and-public-policy-fall-2009/0f331c2fef1958afa95c4eb4a463c257_MIT14_64F09_ps4_dat.pdf
+file: /courses/14-64-labor-economics-and-public-policy-fall-2009/0f331c2fef1958afa95c4eb4a463c257_MIT14_64F09_ps4_dat.pdf
 file_size: 34226
 file_type: application/pdf
 learning_resource_types:
