@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting data file for a problem set on labor economics and public
   policy.
-file: /courses/14-64-labor-economics-and-public-policy-fall-2009/70333a34f36e8bbd5aa3f05feba79185_marcps08.dta
+file: /ol-ocw-studio-app/courses/14-64-labor-economics-and-public-policy-fall-2009/70333a34f36e8bbd5aa3f05feba79185_marcps08.dta
 file_size: 985685
 file_type: application/octet-stream
 learning_resource_types:
